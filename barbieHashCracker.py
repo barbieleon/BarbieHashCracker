@@ -101,3 +101,4 @@ else:
                 print(f"{RED}Error detail: {err}{ENDCOLOR}")
         else:
             print("Program exited.")
+            
